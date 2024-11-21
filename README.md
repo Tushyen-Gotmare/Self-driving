@@ -104,6 +104,6 @@ Adjust detection parameters in the sidebar:
 
 ## 📧 Contact
 
-Tushyen Gotmare - [tushyengotmare.com]
+Tushyen Gotmare - [tushyengotmare@gmail.com]
 
 

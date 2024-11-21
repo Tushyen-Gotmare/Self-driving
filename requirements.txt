@@ -1,0 +1,9 @@
+opencv-python
+numpy
+ultralytics
+pytesseract
+streamlit
+dataclasses
+typing
+time
+re
